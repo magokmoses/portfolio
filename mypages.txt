@@ -1,0 +1,6 @@
+herokuapp
+https://young-reaches-37446.herokuapp.com/
+
+github pages
+
+https://magokmoses.github.io/portfolio/
